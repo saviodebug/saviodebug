@@ -5,7 +5,7 @@
 ☕ Atualmente estudando Java  
 🌍 Inglês avançado (C1)
 
-## Tecnologias que estou aprendendo
+## Tecnologias
 
 - Java
 - Git e GitHub
