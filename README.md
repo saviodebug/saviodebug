@@ -1,31 +1,53 @@
 # Olá! Eu sou o Sávio Junior 👋
 
-🎓 Estudante de Ciência da Computação na Univali  
-💻 Focado em Engenharia de Software  
-☕ Atualmente estudando Java  
-🌍 Inglês avançado (C1)
+🎓 Estudante de Ciência da Computação na UNIVALI
 
-## Tecnologias
+💻 Desenvolvedor Back-end em formação
 
-- Java
-- Git e GitHub
-- Programação Orientada a Objetos
-- Lógica de Programação
+🚀 Focado em Java, Estruturas de Dados, Programação Orientada a Objetos e Banco de Dados
 
-## Objetivo
+🐧 Usuário Linux
 
-Busco oportunidade de estágio na área de desenvolvimento de software para ganhar experiência prática e evoluir como programador.
+🌎 Inglês avançado (C1)
 
-## Contato
+---
 
-LinkedIn: https://www.linkedin.com/in/saviojunior/
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
- 
-<br>
- 
+## 💻 Stack Técnica
+
+### Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Conceitos
+
+![POO](https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
+![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-4CAF50?style=for-the-badge)
+![Lógica](https://img.shields.io/badge/Lógica%20de%20Programação-orange?style=for-the-badge)
+
+---
+
+## 📌 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor de software.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/saviojunior/
+
+📧 E-mail: savinhoeditor@gmail.com
+
+🐙 GitHub: https://github.com/saviodebug
