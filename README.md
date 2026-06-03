@@ -48,6 +48,6 @@ Busco minha primeira oportunidade de estágio na área de tecnologia, onde eu po
 
 💼 LinkedIn: https://www.linkedin.com/in/saviojunior/
 
-📧 E-mail: savinhoeditor@gmail.com
+📧 E-mail: busanasavio@gmail.com
 
 🐙 GitHub: https://github.com/saviodebug
