@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na UNIVALI
 
-💻 Desenvolvedor Back-end em formação
+💻 Desenvolvedor Back-end
 
 🚀 Focado em Java, Estruturas de Dados, Programação Orientada a Objetos e Banco de Dados
 
