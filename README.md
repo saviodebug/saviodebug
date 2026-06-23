@@ -1,53 +1,75 @@
-# Olá! Eu sou o Sávio Junior 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=%3C+S%C3%A1vio+Dev+%2F%3E;Desenvolvimento+Back-End;Java+%E2%80%A2+APIs+%E2%80%A2+Linux" alt="Sávio Dev" />
+</p>
 
-🎓 Estudante de Ciência da Computação na UNIVALI
+<h1 align="center">Sávio Junior</h1>
 
-💻 Desenvolvedor Back-end
+<p align="center">
+  Desenvolvedor Back-End em formação, estudante de Ciência da Computação na UNIVALI.
+  <br>
+  Foco em Java, APIs, banco de dados, Linux e organização de serviços.
+</p>
 
-🚀 Focado em Java, Estruturas de Dados, Programação Orientada a Objetos e Banco de Dados
-
-🐧 Usuário Linux
-
-🌎 Inglês avançado (C1)
-
----
-
-## 💻 Stack Técnica
-
-### Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Conceitos
-
-![POO](https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
-![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-4CAF50?style=for-the-badge)
-![Lógica](https://img.shields.io/badge/Lógica%20de%20Programação-orange?style=for-the-badge)
+<p align="center">
+  <a href="https://saviodebug.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=050812" alt="Portfólio" />
+  </a>
+  <a href="https://github.com/saviodebug/ConfereAi">
+    <img src="https://img.shields.io/badge/ConfereA%C3%AD-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="ConfereAí" />
+  </a>
+  <a href="https://www.linkedin.com/in/saviojunior/">
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=050812" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 📌 Objetivo
+### Stack
 
-Busco minha primeira oportunidade de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor de software.
+<p>
+  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=38BDF8" alt="Node.js" />
+  <img src="https://img.shields.io/badge/APIs_REST-0F172A?style=flat-square&logo=fastapi&logoColor=38BDF8" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=38BDF8" alt="Supabase" />
+</p>
+
+### Ambiente
+
+<p>
+  <img src="https://img.shields.io/badge/Omarchy_Linux-0F172A?style=flat-square&logo=linux&logoColor=38BDF8" alt="Omarchy Linux" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0F172A?style=flat-square&logo=intellijidea&logoColor=38BDF8" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/CLion-0F172A?style=flat-square&logo=clion&logoColor=38BDF8" alt="CLion" />
+  <img src="https://img.shields.io/badge/Neovim-0F172A?style=flat-square&logo=neovim&logoColor=38BDF8" alt="Neovim" />
+  <img src="https://img.shields.io/badge/VS_Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
+</p>
 
 ---
 
-## 📫 Contato
+### Projetos
 
-💼 LinkedIn: https://www.linkedin.com/in/saviojunior/
+| Projeto | Descrição |
+| --- | --- |
+| [ConfereAí](https://github.com/saviodebug/ConfereAi) | Extensão para análise de sinais de risco em notícias, prints e textos políticos/eleitorais. |
+| [Portfólio](https://saviodebug.github.io) | Site pessoal multi-page com navegação bilíngue, canvas interativo e transições entre páginas. |
 
-📧 E-mail: busanasavio@gmail.com
+---
 
-🐙 GitHub: https://github.com/saviodebug
+### GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saviodebug&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=050812" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviodebug&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=050812" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### Contato
+
+<p>
+  <a href="mailto:busanasavio@gmail.com">busanasavio@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/saviojunior/">LinkedIn</a>
+  ·
+  <a href="https://saviodebug.github.io">saviodebug.github.io</a>
+</p>
