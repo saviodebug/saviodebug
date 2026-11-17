@@ -2,8 +2,7 @@
   <img src="./assets/profile-header.svg" width="960" alt="Savio Junior — software, automações e TI. Núcleo em estrutura com órbitas animadas." />
 </p>
 
-Sou **Savio Busana Beckhauser Junior**, estudante de Ciência da Computação na **Univali** e **estagiário de TI na Elastri Engenharia**. Antes, também fui estagiário de TI no **Colégio Jardim Anchieta**.
-
+Sou **Savio Busana Beckhauser Junior**, estudante de Ciência da Computação na **Univali** e **estagiário de TI na Elastri Engenharia**.
 Por aqui, reúno bots em Python, aplicações para Windows, extensões de navegador e experiências web. Gosto de automatizar o que se repete e de experimentar com as ferramentas que uso no dia a dia.
 
 **[Explore meu portfólio 3D ↗](https://saviodebug.github.io/)** · [LinkedIn](https://www.linkedin.com/in/saviojunior/) · [Email](mailto:busanasavio@gmail.com)
